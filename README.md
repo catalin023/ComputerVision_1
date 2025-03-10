@@ -1,1 +1,1 @@
-# ComputerVision_1
+# Calculator automat de scor pentru jocul Mathable
