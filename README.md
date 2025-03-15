@@ -1,1 +1,1 @@
-# Calculator automat de scor pentru jocul Mathable
+# Calculator automat de scor pentru jocul Mathable folosind Computer Vision
